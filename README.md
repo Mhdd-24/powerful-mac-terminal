@@ -1,39 +1,35 @@
-🚀 Make Your Mac Terminal Better with Homebrew, Oh My Zsh & Powerlevel10k
+# 🚀 Make Your Mac Terminal Better with Homebrew, Oh My Zsh & Powerlevel10k  
 
-Description
+## Description  
+This repository provides a step-by-step guide to enhancing your macOS terminal with **Homebrew**, **Oh My Zsh**, and **Powerlevel10k**.  
+It includes instructions to install essential tools, customize the shell, and add useful plugins like **Autosuggestions** and **Syntax Highlighting** for an optimized and modern command-line experience.  
 
-This repository provides a step-by-step guide to enhancing your macOS terminal with Homebrew, Oh My Zsh, and Powerlevel10k.
-It includes instructions to install essential tools, customize the shell, and add useful plugins like Autosuggestions and Syntax Highlighting for an optimized and modern command-line experience.
+## Features  
+- ✅ **Install and configure Homebrew**  
+- ✅ **Set up Oh My Zsh and Powerlevel10k theme**  
+- ✅ **Add Zsh plugins for better productivity**  
+- ✅ **Customize and improve your terminal experience**  
 
-Features
+---
 
-✅ Install and configure Homebrew
-✅ Set up Oh My Zsh and Powerlevel10k theme
-✅ Add Zsh plugins for better productivity
-✅ Customize and improve your terminal experience
+## 🚀 How To Make Your Boring Mac Terminal So Much Better  
+This guide walks you through enhancing your **macOS terminal** with **Homebrew**, **Oh My Zsh**, and the **Powerlevel10k** theme for a **modern, efficient, and stylish** command-line experience.  
 
-⸻
+---
 
-🚀 How To Make Your Boring Mac Terminal So Much Better
+## 📌 Prerequisites  
+Ensure you have:  
+✔️ **A macOS system**  
+✔️ **Terminal access**  
 
-This guide walks you through enhancing your macOS terminal with Homebrew, Oh My Zsh, and the Powerlevel10k theme for a modern, efficient, and stylish command-line experience.
+---
 
-⸻
+## ⚡ Installation Steps  
 
-📌 Prerequisites
+### 1️⃣ Install Homebrew  
+Homebrew is a package manager for macOS that makes software installation easy.  
 
-Ensure you have:
-✔️ A macOS system
-✔️ Terminal access
-
-⸻
-
-⚡ Installation Steps
-
-1️⃣ Install Homebrew
-
-Homebrew is a package manager for macOS that makes software installation easy.
-
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 2️⃣ Set Up Homebrew in Your Shell
@@ -169,4 +165,4 @@ git push origin main
 
 Now your terminal looks 🔥 better, faster, and more efficient! 🚀
 
-⸻
+---
